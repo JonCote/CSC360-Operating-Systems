@@ -3,7 +3,7 @@ Repository of completed assignments for CSC360 Operating systems
 
 ---------------------------------------------------------------------------------
 
-## Assignment 1: A Process Manager <br> *Grade achieved: 100%* <br>
+## Assignment 1: Process Manager <br> *Grade achieved: 100%* <br>
   Goals: <br>
   > - Improve familiarity with C programming <br>
   > - Develop a deeper understanding of system calls related to process management <br>
@@ -30,7 +30,7 @@ Repository of completed assignments for CSC360 Operating systems
  
  ---------------------------------------------------------------------------------
  
- ## Assignment 3: A Simple File System <br> *Grade achieved: TBD* <br>
+ ## Assignment 3: Simple File System <br> *Grade achieved: TBD* <br>
   Goals: <br>
   > - Establish a better understanding of file systems <br>
   
