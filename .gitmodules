@@ -1,3 +1,9 @@
 [submodule "Process-Manager"]
 	path = Process-Manager
 	url = https://github.com/JonCote/Process-Manager.git
+[submodule "Airline-Check-in-System"]
+	path = Airline-Check-in-System
+	url = https://github.com/JonCote/Airline-Check-in-System.git
+[submodule "Simple-File-System"]
+	path = Simple-File-System
+	url = https://github.com/JonCote/Simple-File-System.git
