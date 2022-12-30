@@ -30,7 +30,7 @@ Repository of completed assignments for CSC360 Operating systems
  
  ---------------------------------------------------------------------------------
  
- ## Assignment 3: Simple File System <br> *Grade achieved: TBD* <br>
+ ## Assignment 3: Simple File System <br> *Grade achieved: 100%* <br>
   Goals: <br>
   > - Establish a better understanding of file systems <br>
   
